@@ -12,6 +12,9 @@ quanity of paint required for a particular job. I built this in the planning sta
 * Choose the paint type you will be using.
 * Given the above information, the application will produce a result of total paint cost(£) and the quantity required(Gallons/Litres)
 
-# Download:
+# How to run it:
+
+* Ensure that you have Java installed on you OS; https://www.java.com/en/download/
+* Download and run from here; https://drive.google.com/open?id=14LGuienw51l0voqhFnHHz9VKMMQRvf2f
 
 
